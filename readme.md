@@ -19,7 +19,7 @@ README.md — описание проекта
 
 Инструкция по запуску:
 1. Клонируйте репозиторий:  
-git clone https://github.com/
+git clone https://github.com/344988/AI-fashion-mnist-classifier
 cd pythonP
 
 2. Установите зависимости:  
